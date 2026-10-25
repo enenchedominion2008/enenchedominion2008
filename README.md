@@ -1,16 +1,17 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050505,50:11111B,100:28213F&text=ENENCHE%20DOMINION&fontSize=49&fontColor=F5F5F7&fontAlignY=42&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20SOFTWARE%20ENGINEERING&descSize=12&descAlignY=64&descColor=B9B4CC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020817,45:082F61,100:00BFFF&text=ENENCHE%20DOMINION&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=AI%20ENGINEER%20%2F%2F%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=65&descColor=BAE6FD"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=INITIALIZING+INTELLIGENT+SYSTEMS...;BUILDING+THE+FUTURE+WITH+CODE;PYTHON+%7C+GOLANG+%7C+JAVASCRIPT;THINK.+ENGINEER.+EVOLVE."/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=B9A5FF&center=true&vCenter=true&width=700&lines=Engineering+Ideas+Into+Reality.;Code+With+Purpose.+Build+With+Intention.;Curiosity+Is+The+Beginning+Of+Innovation."/>
+<img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-071B33?style=for-the-badge&labelColor=06101F&color=0284C7"/>
+<img src="https://img.shields.io/badge/✦_MODE-ENGINEERING-071B33?style=for-the-badge&labelColor=06101F&color=1D4ED8"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BASED_ON-CURIOSITY-15151C?style=flat-square&labelColor=08080B&color=8F7CFF"/>
-<img src="https://img.shields.io/badge/DRIVEN_BY-CREATION-15151C?style=flat-square&labelColor=08080B&color=8F7CFF"/>
-<img src="https://img.shields.io/badge/BUILT_WITH-CODE-15151C?style=flat-square&labelColor=08080B&color=8F7CFF"/>
+[ ABOUT ](#about) &nbsp; ◈ &nbsp; [ TECH STACK ](#tech-stack) &nbsp; ◈ &nbsp; [ MISSION ](#current-mission) &nbsp; ◈ &nbsp; [ GITHUB ](#github-telemetry)
 
 </div>
 
@@ -18,57 +19,104 @@
 
 <div align="center">
 
-### THE DEVELOPER BEHIND THE SYSTEMS
-
-*Aspiring AI Engineer · Software Developer · Lifelong Learner*
+## <img src="https://img.shields.io/badge/01-IDENTITY-0284C7?style=flat-square"/> &nbsp; SYSTEM IDENTITY
 
 </div>
 
-I am **Enenche Dominion** — a developer exploring the intersection of software engineering, intelligent systems, and creative problem-solving.
+<a id="about"></a>
 
-My approach is simple: understand the problem, design with intention, build with discipline, and keep refining until the solution makes sense.
+<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-I am not here just to write code. I am here to understand how things work and build things that matter.
+### `> Hello, world. I'm Dominion.`
 
----
+I'm **Enenche Dominion**, an aspiring AI engineer and software developer focused on turning ideas into working systems.
 
-### 01 / TECHNOLOGY
+I enjoy exploring how software works, solving programming problems, and building practical projects that challenge my understanding.
+
+My journey is about more than writing code. It's about learning to think like an engineer.
+
+<br clear="right"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,bash,html,js&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/PHILOSOPHY-Understand%20%3E%20Build%20%3E%20Improve-082F49?style=for-the-badge&labelColor=020817"/>
 
 </div>
 
 ---
 
-### 02 / THE ENGINEERING MINDSET
+<div align="center">
+
+## <img src="https://img.shields.io/badge/02-TECHNOLOGY-0284C7?style=flat-square"/> &nbsp; TECH STACK
+
+<a id="tech-stack"></a>
+
+<img src="https://skillicons.dev/icons?i=python,go,bash,html,js&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/03-CORE_MODULES-0284C7?style=flat-square"/> &nbsp; ENGINEERING DOMAINS
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**01 — ANALYZE**
+<div align="center">
 
-Understand the problem before reaching for a solution.
+<img src="https://img.shields.io/badge/AI-INTELLIGENCE-0C4A6E?style=for-the-badge"/>
+
+</div>
+
+**Artificial Intelligence**
+
+Exploring the foundations of intelligent systems and building the skills needed to create useful AI-powered applications.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**02 — ENGINEER**
+<div align="center">
 
-Turn ideas into clean, practical implementations.
+<img src="https://img.shields.io/badge/API-BACKEND-1D4ED8?style=for-the-badge"/>
+
+</div>
+
+**Backend Engineering**
+
+Learning application logic, API development, data handling, and the architecture behind reliable software.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**03 — REFINE**
+<div align="center">
 
-Test, debug, learn, and make the next version better.
+<img src="https://img.shields.io/badge/LOGIC-PROBLEM_SOLVING-075985?style=for-the-badge"/>
+
+</div>
+
+**Problem Solving**
+
+Breaking complex challenges into smaller problems and developing solutions through testing and debugging.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EVOLVE-CONTINUOUS_LEARNING-312E81?style=for-the-badge"/>
+
+</div>
+
+**Continuous Learning**
+
+Improving my engineering skills through practical projects, experimentation, and consistent learning.
 
 </td>
 </tr>
@@ -76,26 +124,37 @@ Test, debug, learn, and make the next version better.
 
 ---
 
-### 03 / CURRENTLY EXPLORING
+## <img src="https://img.shields.io/badge/04-MISSION_LOG-0284C7?style=flat-square"/> &nbsp; CURRENT MISSION
 
-- **Software Engineering** — writing maintainable code and structuring real projects.
-- **Backend Development** — APIs, application logic, and system fundamentals.
-- **Artificial Intelligence** — building a stronger foundation for intelligent applications.
-- **Problem Solving** — breaking complex challenges into manageable parts.
+<a id="current-mission"></a>
 
----
-
-### 04 / GITHUB INSIGHTS
+```text
+[ ACTIVE ]  Build practical projects with Python and Go
+[ ACTIVE ]  Strengthen backend and API development skills
+[ EXPLORING ]  Develop a foundation in artificial intelligence
+[ ACTIVE ]  Improve debugging and software design
+[ TARGET ]  Build useful, reliable and maintainable systems
+```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enenchedominion2008&show_icons=true&hide_border=true&bg_color=08080B&title_color=C4B5FD&icon_color=9B87F5&text_color=E4E4E7&ring_color=9B87F5&include_all_commits=true" alt="GitHub statistics"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0284C7,50:38BDF8,100:1D4ED8"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enenchedominion2008&layout=compact&hide_border=true&bg_color=08080B&title_color=C4B5FD&text_color=E4E4E7" alt="Most used languages"/>
+</div>
+
+## <img src="https://img.shields.io/badge/05-GITHUB_TELEMETRY-0284C7?style=flat-square"/> &nbsp; GITHUB INSIGHTS
+
+<a id="github-telemetry"></a>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enenchedominion2008&show_icons=true&hide_border=true&bg_color=06101F&title_color=38BDF8&icon_color=60A5FA&text_color=DBEAFE&ring_color=38BDF8"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enenchedominion2008&layout=compact&hide_border=true&bg_color=06101F&title_color=38BDF8&text_color=DBEAFE"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=enenchedominion2008&bg_color=08080B&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=enenchedominion2008&bg_color=06101F&color=7DD3FC&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
 
 </div>
 
@@ -103,16 +162,18 @@ Test, debug, learn, and make the next version better.
 
 <div align="center">
 
-### THE PRINCIPLE
+## <img src="https://img.shields.io/badge/06-DIRECTIVE-0284C7?style=flat-square"/> &nbsp; THE ENGINEERING DIRECTIVE
 
-*"Master the fundamentals. Respect the process. Build beyond the obvious."*
+<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=7DD3FC&center=true&vCenter=true&width=650&lines=Think+Beyond+The+Obvious.;Build+With+Purpose.;Learn+Without+Limits.;Make+Every+Iteration+Better."/>
 
 <br/>
 
-<sub>ENENCHE DOMINION &nbsp; / &nbsp; ALWAYS IN DEVELOPMENT</sub>
+**`BUILD` &nbsp; ◈ &nbsp; `LEARN` &nbsp; ◈ &nbsp; `EVOLVE`**
+
+<sub>ENENCHE DOMINION · ENGINEERING THE NEXT VERSION</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:28213F,50:11111B,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00BFFF,50:082F61,100:020817"/>
 
 </div>
